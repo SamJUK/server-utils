@@ -1,0 +1,4 @@
+hashes/*
+!hashes/.gitkeep
+hashes/tmp/*
+!hashes/tmp/.gitkeep
